@@ -1,0 +1,106 @@
+.general{
+display: flex;
+gap: 50px;
+width: 100%;
+height: 100vh;
+text-align: center;
+background-color:white;
+
+}
+body{
+
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-family: sans-serif;
+   
+}
+.sis{
+     display: flex;
+    
+      justify-content: center;
+      align-items: center;
+    
+      
+     
+}
+.well{
+   
+   background-color: goldenrod;
+    width: 20em;
+    padding: 1em 2em;
+    color: white;
+    background-image: url(img/icon-sedans.svg);
+    
+       
+}
+.mu{
+   background-color: darkcyan;
+   width: 20em;
+   padding: 1em 2em;
+  color: white;
+  background-image: url(img/icon-suvs.svg);
+}
+.moi{
+     background-color: rgb(16, 56, 56);
+     width: 20em;
+     padding: 1em 2em;
+     color: white;
+     background-image: url(img/icon-luxury.svg);
+}
+
+.p1{
+   margin-right: 8em;
+  
+   
+}
+.p2{
+    margin-right: 8em;
+}
+.p3{
+    margin-right: 8em;
+}
+.to{
+    line-height: 1.5rem;
+    
+}
+.sep{
+    line-height: 1.5rem;   
+}
+.set{
+
+    line-height: 1.5rem;
+}
+.but1{
+     
+    width: 80%;
+    border-radius: 10px;
+    height: 3em;
+    border-color: white;
+    color: rgb(15, 92, 92);
+}
+.but2{
+    width: 80%;
+    border-radius: 10px;
+    height: 3em;
+    border-color: white;
+    color: darkcyan;
+
+}
+.but3{
+    width: 80%;
+    border-radius: 10px;
+    height: 3em;
+    border-color: white;
+    color: goldenrod;
+} 
+/* .ima{
+background-image: url(icon-luxury.svg);
+display: flex;
+width: 10em;
+height: 20em;
+display: grid;
+
+} */
