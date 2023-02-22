@@ -5,6 +5,10 @@ width: 100%;
 height: 100vh;
 text-align: center;
 background-color:white;
+ padding: 60px; 
+float: left;
+
+
 
 }
 body{
@@ -22,6 +26,7 @@ body{
     
       justify-content: center;
       align-items: center;
+      
     
       
      
@@ -32,7 +37,7 @@ body{
     width: 20em;
     padding: 1em 2em;
     color: white;
-    background-image: url(img/icon-sedans.svg);
+    /* background-image: url(img/icon-sedans.svg); */
     
        
 }
@@ -41,14 +46,14 @@ body{
    width: 20em;
    padding: 1em 2em;
   color: white;
-  background-image: url(img/icon-suvs.svg);
+  /* background-image: url(img/icon-suvs.svg); */
 }
 .moi{
      background-color: rgb(16, 56, 56);
      width: 20em;
      padding: 1em 2em;
      color: white;
-     background-image: url(img/icon-luxury.svg);
+     /* background-image: url(img/icon-luxury.svg); */
 }
 
 .p1{
@@ -104,3 +109,41 @@ height: 20em;
 display: grid;
 
 } */
+
+ .to{
+   
+    padding: 40px;
+    margin: 20px;
+    text-align: left;
+
+} 
+.set{
+    padding: 40px;
+    margin: 20px;
+    text-align: left;
+
+} 
+ .sep{
+
+    padding: 40px;
+    margin: 20px;
+    text-align: left;
+
+} 
+.well{
+
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.moi{
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.il{
+
+}
+.but3:hover{
+    background: brown;
+}
