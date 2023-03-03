@@ -147,3 +147,32 @@ display: grid;
 .but3:hover{
     background: brown;
 }
+@media only screen and (max-width: 600px) {
+.general{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 30vh;
+}
+
+.sis{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 30vh;
+
+}
+.mu{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 30vh;
+}
+.moi{
+
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 30vh;
+}
+}
