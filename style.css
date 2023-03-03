@@ -101,14 +101,7 @@ body{
     border-color: white;
     color: goldenrod;
 } 
-/* .ima{
-background-image: url(icon-luxury.svg);
-display: flex;
-width: 10em;
-height: 20em;
-display: grid;
 
-} */
 
  .to{
    
@@ -142,10 +135,18 @@ display: grid;
 }
 
 .il{
-
+margin-right: 30em;
 }
 .but3:hover{
-    background: brown;
+    background: rgb(42, 165, 69);
+}
+
+.il2{
+    margin-right: 30em;
+}
+
+.il3{
+    margin-right: 30em;
 }
 @media only screen and (max-width: 600px) {
 .general{
